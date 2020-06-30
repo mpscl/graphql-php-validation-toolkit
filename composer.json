@@ -1,9 +1,9 @@
 {
-  "name":              "shmax/graphql-php-validation-toolkit",
+  "name":              "mpscl/graphql-php-validation-toolkit",
   "description":       "Do validation on fields and args for graphql queries and mutations, and dynamically generate user error types",
   "type":              "library",
   "license":           "MIT",
-  "homepage":          "https://github.com/shmax/graphql-php-validation-toolkit",
+  "homepage":          "https://github.com/mpscl/graphql-php-validation-toolkit",
   "keywords":          [
     "graphql",
     "PHP",
